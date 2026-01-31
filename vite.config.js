@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: './',
+  base: '/', // <--- Use a single slash here
 })
